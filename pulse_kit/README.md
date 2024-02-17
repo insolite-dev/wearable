@@ -25,3 +25,7 @@ Add the following permissions to your `AndroidManifest.xml` to allow access to b
 ```
 
 By following these setup instructions, you ensure that your WearOS application can fully leverage the Pulse Kit library to deliver a rich and engaging user experience in fitness and health tracking.
+
+---
+
+A special thanks to the creators of [flutter_workout](https://github.com/Rexios80/flutter_workout/). Our project, Pulse Kit, was significantly inspired by their innovative work. In fact, Pulse Kit began as a fork of flutter_workout, evolving into the comprehensive library it is today for WearOS applications. We are deeply grateful for the foundation they provided, which has been instrumental in guiding our development process and enabling us to enhance the capabilities and functionalities of WearOS devices.
