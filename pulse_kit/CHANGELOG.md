@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.0.0] - 2024-02-17
+## [0.1.0] - 2024-02-17
 - **Pulse Kit for WearOS:**
   - Initial release of the Pulse Kit library.
   - Features include:

@@ -1,7 +1,8 @@
 name: pulse_kit
 description: "A plugin to interact with WearOS's workout feature"
 version: 0.1.0
-homepage:
+homepage: https://github.com/insolite-dev/wearable
+issue_tracker: https://github.com/insolite-dev/field_suggestion/issues
 
 environment:
   sdk: '>=3.2.6 <4.0.0'
