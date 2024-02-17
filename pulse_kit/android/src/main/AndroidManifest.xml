@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.insolite.pulse_kit">
+    <queries>
+        <package android:name="com.google.android.wearable.healthservices" />
+    </queries>
+</manifest>

@@ -1,0 +1,27 @@
+name: pulse_kit
+description: "A plugin to interact with WearOS's workout feature"
+version: 0.1.0
+homepage:
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+  flutter: '>=3.3.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  plugin_platform_interface: ^2.0.2
+  flutter_plugin_android_lifecycle: ^2.0.5
+  permission_handler: ^11.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.insolite.pulse_kit
+        pluginClass: PulseKitPlugin
